@@ -2,7 +2,7 @@ import React from "react"
 
 const MyCard = () => {
     return (
-        <div className="card" style={{width: "18rem"}}>
+        <div className="card" style={{width: "auto"}}>
           <img className="card-img-top" src="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" alt="Card image cap" />
           <div className="card-body">
             <h5 className="card-title">Card title</h5>
