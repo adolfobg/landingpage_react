@@ -3,7 +3,7 @@ import React from "react"
 const Welcome = () => {
     return (
         <>
-            <div className="col-12">
+            <div className="cols-12 cols-sm-10 cols-md-9 cols-lg-8 cols-xl-6 cols-xxl-4">
                 <div className="card bg-dark bg-opacity-10 border-0 mb-4 mt-4">
                     <div className="card-body">
                         <h1 className="card-title">A Warm Welcome!</h1>
